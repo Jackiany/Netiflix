@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Netiflix</string>
+    <string name="lista_negra">Lista Negra</string>
+    <string name="primeiratemporada">S1:E6</string>
+    <string name="mensagem">Menu Mensagem</string>
+    <string name="volume">Menu Volume</string>
+    <string name="avaliacao">Menu Avaliação</string>
+    <string name="episodio">Menu Episódio</string>
+    <string name="minuto">1:30</string>
+    <string name="hora">45:12</string>
+    <string name="voltar">Voltar</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="logo">Logo</string>
+</resources>
